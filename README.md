@@ -78,7 +78,7 @@ I'm a passionate student diving deep into the world of web development. My journ
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/abdul samad" target="blank">
+  <a href=https://www.linkedin.com/in/abdul-samad-a8989028b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
