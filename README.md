@@ -80,9 +80,8 @@ I'm a passionate student diving deep into the world of web development. My journ
 
 ## 📚 Learning Goals
 
-- Become proficient in full-stack development  
-- Contribute to open-source projects  
-- Create advanced, production-ready applications  
+- Become proficient in full-stack development. 
+- Create advanced, production-ready applications. 
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Samad10jan" alt="GitHub Streak" /></a> -->
 
