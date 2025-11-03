@@ -44,7 +44,13 @@ I'm a passionate student diving deep into the world of web development. My journ
   <a href="https://radix-ui.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="Radix UI" width="40" height="40"/>
   </a>
+
+/a>
+  <a href="https://ui.shadcn.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN UI" width="40" height="40"/>
+  </a>
 </p>
+
 
 ### **Backend & Database**
 <p align="left">
