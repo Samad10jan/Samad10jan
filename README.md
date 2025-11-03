@@ -73,6 +73,8 @@ I'm a passionate student diving deep into the world of web development. My journ
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="Next.js" width="40" height="40"/>
   </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a>
 </p>
 
 ---
