@@ -24,7 +24,6 @@ I'm a passionate student diving deep into the world of web development. My journ
 
 ## 🛠️ Technologies & Tools
 
-### **Frontend**
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
@@ -52,8 +51,6 @@ I'm a passionate student diving deep into the world of web development. My journ
   </a>
 </p>
 
-
-### **Backend & Database**
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
