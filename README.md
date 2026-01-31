@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Abdul Samad</h1>
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 ###
 
@@ -16,9 +13,9 @@
 Welcome to my GitHub profile!  
 I'm a passionate student diving deep into the world of web development. My journey is all about continuous learning
 
-- 🎓 Student, always eager to learn new things  
-- 💻 Currently exploring web development and modern frontend/back-end stacks  
-- 🌱 Constantly expanding my skillset and experimenting with new tools  
+-  Student, always eager to learn new things  
+-  Currently exploring web development and modern frontend/back-end stacks  
+-  Constantly expanding my skillset and experimenting with new tools  
 
 ---
 
@@ -93,3 +90,8 @@ I'm a passionate student diving deep into the world of web development. My journ
 
 ---
 >“Keep learning, keep growing!” 🌱
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
