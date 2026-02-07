@@ -69,6 +69,11 @@ I'm a passionate student diving deep into the world of web development. My journ
   </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/a9a64d95-7e46-422d-bad6-2a7aa69f7e12" />
+</a>
+<a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img width="55" height="75" alt="image" src="https://github.com/user-attachments/assets/58cb393c-f787-46ca-91dd-2ba8c9ecc7c9" />
+
+</a> 
 </p>
 
 ---
