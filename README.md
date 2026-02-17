@@ -8,7 +8,7 @@
   </a>
 </div>
 
-## 🚀 About Me
+## About Me
 
 Welcome to my GitHub profile!  
 I'm a passionate student diving deep into the world of web development. My journey is all about continuous learning
@@ -19,7 +19,7 @@ I'm a passionate student diving deep into the world of web development. My journ
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -46,9 +46,7 @@ I'm a passionate student diving deep into the world of web development. My journ
   <a href="https://ui.shadcn.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN UI" width="40" height="40"/>
   </a>
-</p>
 
-<p align="left">
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
@@ -78,25 +76,26 @@ I'm a passionate student diving deep into the world of web development. My journ
 
 ---
 
-## 🌟 What I'm Working On
+## What I'm Working On
 
 - Personal projects to master full-stack development  
 - Exploring **UI/UX best practices**  
-- Building scalable and user-friendly web applications  
-
----
-
-## 📚 Learning Goals
-
-- Become proficient in full-stack development. 
-- Create advanced, production-ready applications. 
-
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Samad10jan" alt="GitHub Streak" /></a> -->
-
----
+- Building scalable and user-friendly web applications
+  
 >“Keep learning, keep growing!” 🌱
+
+
+
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+---
+
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Samad10jan&theme=tokyonight-duo&border_radius=6&short_numbers=true" alt="GitHub Streak" />
+  </a>
+</p>
