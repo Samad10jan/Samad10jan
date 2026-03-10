@@ -96,6 +96,12 @@ I'm a passionate student diving deep into the world of web development. My journ
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Samad10jan&theme=tokyonight-duo&border_radius=6&short_numbers=true&hide_current_streak=true" alt="GitHub Streak" />
+    <img src="https://
+
+streak-stats.demolab.com?user=Samad10jan hort_numbers=true" alt="GitHub Streak" /
+
+&theme=tokyonight-duo&border_radius=6&s
+
+>
   </a>
 </p>
