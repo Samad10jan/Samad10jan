@@ -72,6 +72,10 @@ I'm a passionate student diving deep into the world of web development. My journ
 <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img width="55" height="75" alt="image" src="https://github.com/user-attachments/assets/58cb393c-f787-46ca-91dd-2ba8c9ecc7c9" />
 
 </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+  <img width="55" height="65" alt="image" src="https://www.pngall.com/wp-content/uploads/15/React-Logo-PNG.png" />
+
+</a>
 </p>
 
 ---
