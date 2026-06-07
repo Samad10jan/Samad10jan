@@ -47,6 +47,10 @@ I'm a passionate student diving deep into the world of web development. My journ
 <img src="https://www.pngall.com/wp-content/uploads/15/React-Logo-PNG.png" height="40"/>
 </a>&nbsp;&nbsp;
 
+<a href="https://react.dev/" target="_blank">
+<img height="40" alt="image" src="https://github.com/user-attachments/assets/17a2a825-13c7-4ff8-b396-a99f3ec78a5d" />
+</a>&nbsp;&nbsp;
+
 <a href="https://nextjs.org/" target="_blank">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" height="40"/>
 </a>&nbsp;&nbsp;
