@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 
-<a href="https://abdul-samad-liart.vercel.app" target="_blank">
+<a href="https://abdul-samad-nu.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFF&color=fffff" height="25" alt="portfolio" />
 </a>
 </div>
